@@ -1,2 +1,2 @@
-# COVID19-Analysis
-Project 1
+# project_1
+This repo consists of
